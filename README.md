@@ -1,1 +1,1 @@
-# .github
+Bem vindo ao DoeCerto
